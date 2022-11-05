@@ -49,3 +49,5 @@ Based on the images and mask information we will have to predict
 segmentation masks to isolate tumors in the MRI scan images of patients,
 enabling medical professionals to use the information like presence, shape,
 location of the tumor from the segmentation masks predicted.
+
+File app.py was run using streamlit to deploy in AWS EC2 instance.
